@@ -1,0 +1,2 @@
+# From-online-video-fetch-audio-to-produce-script-txt-and-answer-docx
+在线视频链接提取音频转写为文本，可选 LLM 纠错与问答输出结构化 docx。有python即可，依需自动下依赖。From online video URLs，transcribe the audio content into text. Optional LLM-driven text error correction and Q&amp;A, with final content exported as DOCX.The program only requires a Python environment to start, other components are automatically downloaded via network based on users' willing.
